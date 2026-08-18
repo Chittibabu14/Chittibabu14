@@ -42,11 +42,10 @@ I am an aspiring **Network & Security Engineer** building a strong technical fou
 ---
 
 ## 📈 Network Engineering Lab Roadmap
-- [x] **Phase 1: Basic IP Connectivity & Routing Fundamentals** (VPCS, Router IP Addressing, Ping Verification)
-- [x] **Phase 2: Remote Device Management & Hardening** (Domain Name, RSA Key Generation, SSHv2, VTY Security)
-- [ ] **Phase 3: Switching & Layer 2 Security** (VLANs, 802.1Q Trunking, STP, Port Security, DHCP Snooping)
-- [ ] **Phase 4: Dynamic Routing Protocols** (Single-Area & Multi-Area OSPF, EIGRP, BGP)
-- [ ] **Phase 5: Enterprise Security & VPNs** (ACLs, NAT/PAT, Site-to-Site IPsec VPN)
+- [x] **Phase 1: Network Fundamentals & Device Management** (Basic IP Addressing, SSH Remote Management, Cisco IOS DHCP Server)
+- [x] **Phase 2: Dynamic Routing Protocols** *(In Progress)* (Single-Area OSPFv2 Basic Configuration, Multi-Area OSPF, BGP)
+- [ ] **Phase 3: Switching, VLANs & Layer 2 Security** (Inter-VLAN Routing, Switchport Security, STP Tuning)
+- [ ] **Phase 4: Enterprise Security & VPNs** (ACLs, Dynamic NAT/PAT, Site-to-Site IPsec VPN)
 
 ---
 
